@@ -15,9 +15,6 @@ Agent porusza się po siatce, unika przeszkód i pułapek, zarządza energią or
 - `results/` – wyniki eksperymentów
 - `report.tex`, `article_style.tex` – źródła raportu
 
-## Raport
-Przenieś pliki `report.tex` i `article_style.tex` do katalogu `report/` (albo kompiluj je z katalogu głównego). Uzupełnij dane studenta i link do repozytorium przed oddaniem.
-
 ## Planowane rozszerzenia
 - implementacja środowiska Grid World,
 - agent losowy jako baseline,
